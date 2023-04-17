@@ -1,0 +1,2 @@
+		<class>javaee.jpa.one2one.oneway.Address</class>
+		<class>javaee.jpa.one2one.oneway.Student</class>
